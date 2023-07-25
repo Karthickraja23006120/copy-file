@@ -6,21 +6,24 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+open the file myfile.txt in read mode
 ### Step 2: 
- 
+ open the file yourfile.txt in write mode
 ### Step 3: 
-
+read the file
 ### Step 4:  
-
+write the file into another file
 ### Step 5: 
-
-### Step 6: 
-
+end the program
 ## PROGRAM:
-
+```
+a=open("myfile.txt",'r')
+b=open("yourfile.txt",'w')
+f=a.read()
+g=b.write(f)
+```
 ### OUTPUT:
-
+![output](/Screenshot%202023-07-25%20213255.png)
 
 
 ## RESULT:
