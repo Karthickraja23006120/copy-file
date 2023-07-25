@@ -1,4 +1,4 @@
 a=open("myfile.txt",'r')
 b=open("yourfile.txt",'w')
 f=a.read()
-g=b.write(f)
+g=b.write(f)a.p
