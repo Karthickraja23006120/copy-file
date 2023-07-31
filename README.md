@@ -17,6 +17,8 @@ write the file into another file
 end the program
 ## PROGRAM:
 ```
+Developed by:Karthick Raja K
+Reference no:23006120
 a=open("myfile.txt",'r')
 b=open("yourfile.txt",'w')
 f=a.read()
