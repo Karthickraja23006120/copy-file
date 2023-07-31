@@ -24,6 +24,10 @@ g=b.write(f)
 ```
 ### OUTPUT:
 ![output](/Screenshot%202023-07-25%20213255.png)
+Text File
+![output](/Screenshot%202023-07-31%20201046.png)
+Copy File
+![output](/Screenshot%202023-07-31%20201231.png)
 
 
 ## RESULT:
